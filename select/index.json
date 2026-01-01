@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エライエライエライ！",
+  "base_artist": "キノシタ",
+  "createdAt": "2026-01-01T09:30:44.960460Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エライエライエライ! (feat. 音街ウナ & 鏡音リン)",
+      "artist": "キノシタ",
+      "has_synced": false,
+      "path": "select/pl_01_エライエライエライ!_(feat._音街ウナ_&_鏡音リン)_キノシタ.txt"
+    }
+  ]
+}
